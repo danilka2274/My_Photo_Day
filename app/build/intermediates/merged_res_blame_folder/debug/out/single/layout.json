@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\fragment_start.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\content_main.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\item_note.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\item_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\item_mars.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\item_mars.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\fragment_apod_start.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\fragment_apod_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\fragment_earth.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\fragment_earth.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\fragment_notes.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\fragment_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\fragment_start_finish.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\fragment_start_finish.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\item_earth.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\item_earth.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\fragment_start_container.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\fragment_start_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\fragment_apod.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\fragment_apod.xml"
+    },
+    {
+        "merged": "com.example.my_photo_day.app-mergeDebugResources-51:/layout/app_bar_main.xml",
+        "source": "com.example.my_photo_day.app-main-54:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-mergeDebugResources-51:\\layout\\fragment_mars.xml",
+        "source": "C:\\Users\\danilka2274\\.gradle\\daemon\\8.0.2\\com.example.my_photo_day.app-main-54:\\layout\\fragment_mars.xml"
+    }
+]
